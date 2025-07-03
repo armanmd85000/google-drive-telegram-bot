@@ -1,10 +1,10 @@
 class config:
     BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
+    APP_ID = "25570420"
+    API_HASH = "6591643fa39b5b9d0eb78cb24db17f69"
+    DATABASE_URL = "mongodb+srv://right90:XPiKRe1KVae8sO0z@cluster0.hzctsrh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUPPORT_CHAT_LINK = "https://t.me/Thecourseguy0"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
